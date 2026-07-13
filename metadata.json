@@ -1,0 +1,6 @@
+{
+  "name": "CivicBuild",
+  "description": "A world-class, premium Civil Engineering Blog & Portfolio platform, showcasing structural milestones, detailed research, dynamic blog categories, local bookmarking database, and modern Material 3 responsive layout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
