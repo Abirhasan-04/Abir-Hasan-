@@ -1,0 +1,60 @@
+Create a premium, cinematic, mobile-first Happy Birthday website using only HTML, CSS and JavaScript (no frameworks).
+
+The website should feel magical and emotional.
+
+Opening Sequence:
+- Screen starts completely black.
+- A glowing light slowly appears.
+- Soft magical sound effect.
+- Camera zoom animation.
+- Golden particles float everywhere.
+
+Main Animation:
+- Giant glowing text:
+  🎉 HAPPY BIRTHDAY 🎉
+- Name appears with typing animation.
+- Beautiful luxury birthday cake appears.
+- Realistic candle flame animation.
+- Floating balloons from bottom.
+- Confetti explosion.
+- Fireworks in the background.
+- Sparkles everywhere.
+- Floating hearts.
+- Smooth glowing effects.
+
+Effects:
+- Glassmorphism UI.
+- Premium gradients.
+- Animated background.
+- 60 FPS smooth animation.
+- Professional transitions.
+- Responsive for all mobile phones.
+
+Music:
+- Soft instrumental birthday background music.
+- Music starts only after user taps "Start Celebration" (browser compatible).
+
+Interactive Features:
+- "Start Celebration" button.
+- "Blow Candles" button.
+- When Blow Candles is pressed:
+  - Flames disappear.
+  - Smoke animation.
+  - Confetti blast.
+  - Fireworks.
+  - Display:
+    "May Allah bless you with happiness, health and success."
+- "Replay Celebration" button.
+
+Ending:
+- Heart animation.
+- Floating stars.
+- Final glowing message:
+  "Wishing You a Wonderful Birthday ❤️"
+
+Performance:
+- Fast loading.
+- Mobile optimized.
+- Works perfectly after opening from a QR Code.
+- Put everything in a single index.html file with embedded CSS and JavaScript.
+- Write clean, well-commented code.
